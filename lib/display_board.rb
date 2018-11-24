@@ -11,7 +11,4 @@ end
 
 board = [" "," "," "," "," "," "," "," "," "]
 
-def display_board(board)
-end
-
 puts display_board(board#{0})
