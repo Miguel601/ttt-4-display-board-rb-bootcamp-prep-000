@@ -11,4 +11,4 @@ end
 
 board = [" "," "," "," "," "," "," "," "," "]
 
-puts display_board(board#{0})
+display_board(board#{0})
